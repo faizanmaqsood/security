@@ -15,4 +15,4 @@ This repository is the example code and lab environment for the the Security Tes
   make gruyere-start
 ```
 
-Thanks for watching!
+Thanks for watching videos
